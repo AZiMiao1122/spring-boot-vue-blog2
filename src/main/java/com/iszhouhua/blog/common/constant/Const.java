@@ -44,7 +44,7 @@ public class Const {
     /**
      * 压缩阈值，超过此大小的图片将被压缩，此处是512kb
      */
-    public static final long COMPRESSION_SIZE=524288L;
+    public static final long COMPRESSION_SIZE=1536288L;
     /**
      * 爬虫默认的userAgent
      */

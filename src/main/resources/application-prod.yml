@@ -4,9 +4,9 @@ spring:
   # 数据库配置
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://123.0.0.1:3306/db_name?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8&useSSL=true&autoReconnect=true
+    url: jdbc:mysql://127.0.0.1:33060/blog_azimiao?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8&useSSL=true&autoReconnect=true
     username: root
-    password: 123456
+    password: 5080Xgg!
 # log 配置
 logging:
   file: logs/blog.log
